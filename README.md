@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 <p>
 I'm a technophile who's always on top of the latest technology updates. I have a deep passion for 🤖 AI (Artificial Intelligence) and 📚 NLP (Natural Language Processing). In fact, I'm not just enthusiastic; I'm positively obsessed with AI, and I'm constantly on the lookout for AI applications in all my day-to-day tasks. 💡🚀 
 
+I'm a technophile who's always on top of the latest technology updates. I have a deep passion for 🤖 AI (Artificial Intelligence) and 📚 NLP (Natural Language Processing). 
+
+I specialize in creating cutting-edge AI solutions, focusing on enhancing user experience and accessibility through innovative applications. My projects include:
+
+- A web page question-answering system leveraging web crawling and OpenAI's API for smart query navigation.
+- A multilingual Flask web app utilizing GPT-3.5 Turbo for dynamic, AI-powered email responses, improving customer support efficiency.
+- A voice-activated AI built for seamless conversational interaction, designed to understand document context and recognize speech.
+- A news summarizer tool that uses OpenAI's assistant API to condense articles, making news more accessible and digestible.
+
 ## About Me
 - 🌱 I’m currently learning **ML, NLP**
 - 🤩 I'm on a quest to integrate AI into everything I do.
