@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">An enthusiastic tech wizard 🚀</h3>
 
 <p>
-I'm a technophile who's always on top of the latest technology updates. I have a deep passion for 🤖 AI (Artificial Intelligence) and 📚 NLP (Natural Language Processing). In fact, I'm not just enthusiastic; I'm positively obsessed with AI, and I'm constantly on the lookout for AI applications in all my day-to-day tasks. 💡🚀 
-
 I'm a technophile who's always on top of the latest technology updates. I have a deep passion for 🤖 AI (Artificial Intelligence) and 📚 NLP (Natural Language Processing). 
 
 I specialize in creating cutting-edge AI solutions, focusing on enhancing user experience and accessibility through innovative applications. My projects include:
